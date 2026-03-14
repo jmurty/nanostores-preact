@@ -54,7 +54,7 @@
     "eslint": "^9.24.0",
     "happy-dom": "^17.4.4",
     "nanodelay": "^2.0.2",
-    "nanostores": "^1.0.1",
+    "nanostores": "^1.2.0",
     "preact": "^10.26.5",
     "preact-render-to-string": "^6.6.6",
     "size-limit": "^11.2.0",
@@ -89,7 +89,7 @@
         "index.js": "{ useStore }",
         "nanostores": "{ map, computed }"
       },
-      "limit": "943 B"
+      "limit": "931 B"
     }
   ]
 }
